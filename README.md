@@ -1,0 +1,2 @@
+# INSIdEnano
+INSIdE nano is a web-based tool that highlights connections between phenotypic entities based on their effects on genes. The database behind the INSIdE nano is a network whose nodes are grouped into four categories:  Nanomaterial exposures Drug treatments Chemical exposures Diseases For each node in the network, information regarding their effects on the genes is collected. Weights of the edges in the network are correlated to the similarity of these effects between each couple of nodes.
